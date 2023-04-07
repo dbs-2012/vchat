@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vchat/static/css/main.d58edff8.css",
+    "main.js": "/vchat/static/js/main.539e52c4.js",
+    "static/js/787.35cea4b2.chunk.js": "/vchat/static/js/787.35cea4b2.chunk.js",
+    "static/media/add.png": "/vchat/static/media/add.2de9eb06861b98603d4a.png",
+    "static/media/camera.png": "/vchat/static/media/camera.dec8c33ba0a61cd782f5.png",
+    "static/media/more.png": "/vchat/static/media/more.1b4969529a65a14a32fd.png",
+    "static/media/attach.jpeg": "/vchat/static/media/attach.7d0e5ca55c47957e8d53.jpeg",
+    "index.html": "/vchat/index.html",
+    "main.d58edff8.css.map": "/vchat/static/css/main.d58edff8.css.map",
+    "main.539e52c4.js.map": "/vchat/static/js/main.539e52c4.js.map",
+    "787.35cea4b2.chunk.js.map": "/vchat/static/js/787.35cea4b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d58edff8.css",
+    "static/js/main.539e52c4.js"
+  ]
+}
